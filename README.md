@@ -22,3 +22,10 @@
 
 ----------
 若要实现表格需要Extra
+### 5/17/2016 12:32:22 PM  ###
+整个博客架构基本实现了<br>
+Thanks:<br>
+@[https://github.com/Andrew-liu](https://github.com/Andrew-liu)<br>
+参考:<br>
+[https://github.com/zlxs23/my_blog_tutorial](https://github.com/zlxs23/my_blog_tutorial "my_blog_tutorial")
+谢谢!
